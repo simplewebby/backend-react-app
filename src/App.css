@@ -1,0 +1,9 @@
+.App {
+    height: 100vh;   
+}
+.ShoppingList {
+    max-width: 40vw;
+}
+.AddItemTo .container{
+    margin: 6rem;
+}
